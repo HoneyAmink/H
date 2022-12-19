@@ -2,6 +2,10 @@
 
 git init - make dir as repo
 
+git revert - undo existing commit
+
+git reset - before commit, do changes
+
 git status
 
 git add . - working directory to staging are >> get prepared to commit >> add to track file by git
