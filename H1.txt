@@ -1,0 +1,37 @@
+
+
+git init - make dir as repo
+
+git status
+
+git add . - working directory to staging are >> get prepared to commit >> add to track file by git
+
+gti commit 
+
+git config global user.username HoneyAminK - link to github & password
+
+git remote add origin <https://github.com/HoneyAmink/H.git......> 
+
+git push  origin master - push to central repo
+
+
+git log 
+
+git branch A1
+
+git checkout A1
+
+git merge A2
+
+git origin master 
+
+git Stashing keep aside all work same and please make space for new one (temp.. storage)
+
+git stash apply stash 
+
+
+git clone <url of git repo>
+
+
+
+ 
